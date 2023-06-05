@@ -1,6 +1,6 @@
 # scarleteung.github.io
 <p>
-  이곳은 응세의 출석도장 이벤트 페이지입니다
+  <h1>이곳은 응세의 출석도장 이벤트 페이지입니다</h1>
 </p>
 <html>
   <body>
